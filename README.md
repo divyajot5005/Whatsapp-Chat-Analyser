@@ -26,7 +26,7 @@ This repository contains a WhatsApp Chat Analyzer built using Machine Learning (
 
 ### Steps
 - Clone the repository:
-    `https://github.com/VaibhavVermaa16/Whatsapp-chat-analyser.git`
+    `https:/https://github.com/divyajot5005/Whatsapp-Chat-Analyser.git`
     `cd whatsapp-chat-analyzer`
 - Create a virtual environment (optional but recommended):
     `python -m venv venv`
